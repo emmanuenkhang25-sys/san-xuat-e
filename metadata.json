@@ -1,0 +1,13 @@
+{
+  "name": "Đề Thi Tiểu Học AI",
+  "description": "Ứng dụng tạo đề thi thông minh dành cho học sinh tiểu học theo chương trình Kết nối tri thức với cuộc sống.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Exam Generation",
+    "Vision Analysis",
+    "PDF Export",
+    "Image Illustration"
+  ]
+}
